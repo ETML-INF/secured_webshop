@@ -1,0 +1,16 @@
+# Dépendances npm
+node_modules/
+
+# Variables d'environnement contient les secrets PEPPER, JWT_SECRET, mdp BDD)
+app/.env
+
+# Fichiers IDE
+.vscode/
+.idea/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
